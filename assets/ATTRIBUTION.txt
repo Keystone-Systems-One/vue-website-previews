@@ -1,0 +1,17 @@
+Vue on Main concepts combine real venue photographs with labeled stock inspiration.
+
+Concert: https://images.unsplash.com/photo-1506157786151-b8491531f063
+Wedding: https://images.unsplash.com/photo-1519741497674-611481863552
+Celebration: https://images.unsplash.com/photo-1511795409834-ef04bbd61622
+
+Fonts from Google Fonts: Archivo, Barlow Condensed, Bodoni Moda, Manrope.
+Font files are bundled for offline viewing. See Google Fonts for license details.
+
+All programme entries are hypothetical examples. Venue identity and contact details were verified on the Facebook page supplied by the user on 2026-10-21.
+
+Official venue page: https://www.facebook.com/people/Vue-on-Main/61589324098089/
+Address: 250 W. Main St., Greenwood, Indiana
+Telephone: (317) 851-0797
+Email: Info@sipcocktails.bar
+
+assets/venue/ includes the official brand cover, exterior photo and three birthday celebration photos exported from that public page, unchanged, for these local client drafts. All rights remain with the original rights holders. Stock music and wedding inspiration remains labeled separately.

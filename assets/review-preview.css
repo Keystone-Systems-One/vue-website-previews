@@ -1,0 +1,3 @@
+.review-notice{display:flex;flex-wrap:wrap;gap:6px 20px;padding:12px 5%;
+background:#eceacb;color:#242a24;font:12px/1.65 sans-serif;border-bottom:1px solid #c9c9ad}
+.review-notice strong{font-size:10px;letter-spacing:.12em}.review-notice span{max-width:70ch}
